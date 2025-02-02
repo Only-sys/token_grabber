@@ -5,7 +5,7 @@ import json
 import requests
 import re
 import base64
-import win32crypt
+import win32 import win32crypt
 import datetime
 from Crypto.Cipher import AES
 
