@@ -1,0 +1,6 @@
+requests
+win32crypt
+pycryptodome
+json
+re
+base64
